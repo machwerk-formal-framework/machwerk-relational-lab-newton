@@ -20,3 +20,12 @@ This repository will contain core relational implementation modules, analytical 
 Scope
 
 This lab operates strictly within classical mechanics and serves as a stable relational test environment for further formal development.
+Usage
+
+Run locally with Python 3:
+
+python3 test_energy_conservation.py
+python3 relational_analysis.py
+python3 relational_orbit_scan.py
+
+These scripts verify structural consistency, scaling behavior, and energy relations within the relational TRD embedding of Newtonian mechanics.
