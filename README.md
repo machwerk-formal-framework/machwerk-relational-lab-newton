@@ -10,7 +10,7 @@ You don't need coordinates or time parameters to describe physical systems. You 
 
 ## What Is TRD?
 
-**TRD = Temporal Relational Determinacy**
+**TRD = Three Reaction Dynamic 
 
 A system of three coupled quantities:
 
